@@ -1,1 +1,1 @@
-# Functional-Programming
+**Rozwiązania zadań z laboratorium z przedmiotu ***Programowanie funkcyjne*** - semestr zimowy 2023/24**
